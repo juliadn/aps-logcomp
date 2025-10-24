@@ -1,0 +1,7 @@
+airlang
+airlang.tab.c
+airlang.tab.h
+lex.yy.c
+*.o
+*~
+teste*
